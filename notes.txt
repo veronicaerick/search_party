@@ -1,0 +1,9 @@
+class vs functional components
+
+class is used when we want state, functional is for simple comps with a few number of props and returns JSX
+
+class based uses constructors
+
+State: whenever state is changed the comp rerenders including children
+
+State in react is component based, redux, state is application based (higher level state)
